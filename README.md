@@ -1,16 +1,8 @@
-# perfil
+App: Perfil
+Flutter/Dart Jucesargois-kotlin Jucesargois-Ts
 
-A new Flutter project.
+Sobre
+Este projeto tem como objetivo a criação de um aplicativo para Foi  consumir Api do http://pedroemanoel98380.somee.com/ (projeto desenvolvido anteriormente), assim consumindo od dados e tratando apresentando no aplicativo de forma mais clara possivel as informaçoes de curriculos como PERFIL,EXPERIENCIA e FORMAÇÃO PROFISSIONAL.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference. teste
+Funcionalidades.
+Listar informaçoes de Perfil prossional
